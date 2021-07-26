@@ -13,7 +13,7 @@ Lastly, if logging is enabled, log files for each missile will be stored in the 
 
 ## Using the GUI
 
-![](/GUI_Example.png)
+![GUI Example](/GUI_Example.png)
 
 The GUI has two main control sections:
 
